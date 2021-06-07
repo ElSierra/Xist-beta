@@ -1,0 +1,38 @@
+name: Xistence
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.3
+  vibration: ^1.7.4-nullsafety.0
+  firebase_core: ^1.2.0
+  firebase_auth: ^1.2.0
+  modal_progress_hud_nsn: ^0.1.0-nullsafety-1
+  animated_text_kit: ^4.2.1
+  cloud_firestore: ^2.2.0
+  lottie: ^1.0.1
+  fluttertoast: ^8.0.7
+  url_launcher: ^6.0.4
+  intl: ^0.17.0
+
+  google_fonts: ^2.1.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - images/
+

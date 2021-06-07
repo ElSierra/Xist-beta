@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874085220331",
+    "project_id": "xistence-9be5b",
+    "storage_bucket": "xistence-9be5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874085220331:android:10e0a551545f02ac17a3ae",
+        "android_client_info": {
+          "package_name": "com.devink.xistence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874085220331-641daidt4qcovka4ttgrjolrekdei608.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZuGpD0mzdWm99VUQUnQqbngqHsLXvx_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874085220331-641daidt4qcovka4ttgrjolrekdei608.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
