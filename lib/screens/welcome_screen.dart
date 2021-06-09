@@ -134,7 +134,8 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                       Center(
                           child: Text(
                         'by Исак™ ',
-                        style: GoogleFonts.prostoOne(
+                        style: GoogleFonts.openSansCondensed(
+                            //prostoOne
                             color: Color(0xff0d60d8),
                             fontSize: 20,
                             fontWeight: FontWeight.bold),
